@@ -113,7 +113,6 @@ class AddAmount extends Component{
 }
 
 function mapStateToProps(state){
-  console.log(state);
   return{
 		token:state.activeUser
   }

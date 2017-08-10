@@ -1,0 +1,72 @@
+
+.body-height{
+	margin-top:100px
+}
+
+.no-border {
+  border: 0;
+  box-shadow: none;
+}
+
+.form-height{
+	margin-top:70px
+}
+.form-transfer{
+	margin-left:20px
+}
+input[type=text],input[type=password],input[type=email],input[type=number] {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #ddd;
+  width:400px;
+}
+
+.custom{
+	width: 400px;
+	height: 50px;
+}
+.nav-tabs {
+  border-bottom: none;
+}
+body {
+
+  color:#555;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+  border: none;
+  color:#337ab7;
+  line-height:0.897;
+  border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #337ab7;
+}
+.nav-tabs>li>a{
+	font-size: 24px;
+	color:#555;
+}
+h4{
+	margin-left:20px
+}
+.navbar{
+	height:80px
+}
+.navbar-default {
+  background-color: #ffffff;
+  border-color: #e7e7e7;
+}
+.navbar-brand{
+	background-color: #337ab7;
+	font:Roboto;
+	font-size:24px;
+	color:#ffffff;
+	height:80px;
+	width:200px;
+	line-height: 35px;
+	padding:15px;
+}
+.navbar-default .navbar-brand {
+  color: #ffffff;
+}
+.table{
+	margin-left:20px;
+}
